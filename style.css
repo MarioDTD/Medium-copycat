@@ -1,0 +1,39 @@
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+body {
+  text-align: center;
+}
+
+.banner .container > p {
+  font-size: 25px;
+  color: white;
+}
+
+.banner .container > h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1635345459364-ea0de3aea869?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzNjUzMDM4OA&ixlib=rb-1.2.1&q=80&w=1000);
+  background-size: cover;
+  padding: 100px;
+}
+.container > h2 {
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container > a {
+  font-size: 30px;
+}
+
+.container > p {
+  font-size: 20px;
+}
